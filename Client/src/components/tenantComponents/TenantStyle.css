@@ -1,0 +1,52 @@
+.container-fluid {
+  margin: 0px;
+  padding: 0px;
+}
+.tenant-cover {
+  margin-top: -3%;
+  height: 100%;
+  width: 100%;
+  overflow: hidden !important;
+  position: relative;
+  text-align: center;
+  background-size: cover !important;
+  background-position: center !important;
+  background-image: url("https://img.wallpapersafari.com/desktop/1680/1050/53/77/riySZ4.jpg");
+}
+h1 {
+  margin-top: 10%;
+  font-size: 650%;
+  font-family: Lucida Handwriting;
+}
+.text_on_cover_img {
+  position: absolute;
+  margin-top: -10%;
+  position: relative;
+  float: none;
+  color: blanchedalmond;
+}
+.loggedin_user {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: -160px;
+  position: relative;
+}
+.user_profile {
+  width: 250px;
+  height: 250px;
+  overflow: hidden;
+  border-radius: 50%;
+  border: 2px solid black;
+  float: left;
+  position: relative;
+  cursor: pointer !important;
+}
+.user_profile img {
+  width: 250px;
+  height: inherit;
+  position: relative;
+  float: left !important;
+}
+input.placeholder {
+  text-align: center;
+}
